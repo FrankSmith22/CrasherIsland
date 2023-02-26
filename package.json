@@ -1,0 +1,23 @@
+{
+  "name": "crasherisland",
+  "version": "1.0.0",
+  "description": "A pokemon-like web based game built on JS. A fun little project courtesy of Chris Courses on YouTube.",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankSmith22/CrasherIsland.git"
+  },
+  "author": "Frank Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankSmith22/CrasherIsland/issues"
+  },
+  "homepage": "https://github.com/FrankSmith22/CrasherIsland#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
